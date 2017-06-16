@@ -1,4 +1,4 @@
-import itertools
+import itertools #pip install more-itertools
 #characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 characters = "abcdefghijklmnopqrstuvwxyz"
 dic=open("pass1.txt","a")
